@@ -1,2 +1,1 @@
-# PreCourse-Henry
-este es un repositorio del modulo2 de precourse de henry
+este proyecto es una prueba de como crear un repostitorio y como abrirlo desde mi escritorio
